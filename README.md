@@ -28,11 +28,11 @@ A responsive React + Redux Toolkit web app that tracks real-time crypto prices, 
 
 🛠️ Setup Instructions
 
-git clone https://github.com/niveditatripathi986/crypto-price-tracker.git
-cd crypto-price-tracker
+- git clone https://github.com/niveditatripathi986/crypto-price-tracker.git
+- cd crypto-price-tracker
 
 Install dependencies:
-npm install
+- npm install
 Start the development server:
-npm start
+- npm start
 The app will run at http://localhost:3000
