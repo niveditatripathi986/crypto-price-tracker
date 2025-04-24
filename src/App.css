@@ -1,0 +1,41 @@
+.crypto-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.crypto-table th,
+.crypto-table td {
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  font-size: 14px;
+}
+
+.crypto-table th {
+  background-color: #f5f5f5;
+  font-weight: 600;
+}
+
+.crypto-table tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+.crypto-name {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.crypto-name img {
+  width: 24px;
+  height: 24px;
+}
+
+.positive {
+  color: green;
+}
+
+.negative {
+  color: red;
+}
